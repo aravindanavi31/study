@@ -3,7 +3,7 @@
 <h1><font color='blue'> Iam aravind <font></h1>
 <h2> my web app deployment </h2>
 
-<a href=" succesfully deployed in tomcat">Click Here To See Greens Training Schedules</a>
+<a href=" succesfully deployed in tomcat">succesfully deployed in tomcat</a>
   
 </body>
 </html>
